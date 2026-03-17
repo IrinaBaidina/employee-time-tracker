@@ -117,14 +117,37 @@ Database
 
 <h2>Скриншоты</h2>
 
-<p>Добавьте сюда скриншоты интерфейса:</p>
+<h2>Интерфейс приложения</h2>
 
-<ul>
-<li>Список сотрудников</li>
-<li>Фильтрация</li>
-<li>Профиль пользователя</li>
-<li>Timeline</li>
-</ul>
+<details>
+<summary>Нажмите, чтобы развернуть скриншоты</summary>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Список сотрудников</b><br>
+      <img src="./pictures/accord.png" width="400"/>
+    </td>
+    <td align="center">
+      <b>Фильтрация</b><br>
+      <img src="./table/table.png" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Профиль сотрудника</b><br>
+      <img src="./pictures/ent_form.png" width="400"/>
+    </td>
+    <td align="center">
+      <b>Timeline изменений</b><br>
+      <img src="./pictures/timeline.png" width="400"/>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 <hr>
 
