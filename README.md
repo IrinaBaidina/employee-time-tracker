@@ -126,20 +126,20 @@ Database
   <tr>
     <td align="center">
       <b>Список сотрудников</b><br>
-      <img src="./pictures/accord.png" width="400"/>
+      <img src="./pictures/table.png" width="400"/>
     </td>
     <td align="center">
       <b>Фильтрация</b><br>
-      <img src="./pictures/table.png" width="400"/>
+      <img src="./pictures/accord.png" width="400"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>Профиль сотрудника</b><br>
+      <b>Форма для управления данными сотрудника (CRUD)</b><br>
       <img src="./pictures/ent_form.png" width="400"/>
     </td>
     <td align="center">
-      <b>Timeline изменений</b><br>
+      <b>Timeline (история изменений)</b><br>
       <img src="./pictures/timeline.png" width="400"/>
     </td>
   </tr>
