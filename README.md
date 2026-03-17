@@ -115,8 +115,6 @@ Database
 
 <hr>
 
-<h2>Скриншоты</h2>
-
 <h2>Интерфейс приложения</h2>
 
 <details>
@@ -132,7 +130,7 @@ Database
     </td>
     <td align="center">
       <b>Фильтрация</b><br>
-      <img src="./table/table.png" width="400"/>
+      <img src="./pictures/table.png" width="400"/>
     </td>
   </tr>
   <tr>
